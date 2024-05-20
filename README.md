@@ -15,7 +15,7 @@ Esta pasta contém os arquivos das aulas da semana 13 do curso de Desenvolviment
     <li>
         Material Digital de São Paulo Adaptado
         <ul>
-            <li><a rhef="https://docs.google.com/presentation/d/1YORSph3MKKuWd_G3dUsEET0zvZhFbamUzLSiQWD7V8w/edit?usp=sharing">Aula 1</a></li>
+            <li><a href="https://docs.google.com/presentation/d/1YORSph3MKKuWd_G3dUsEET0zvZhFbamUzLSiQWD7V8w/edit?usp=sharing">Aula 1</a></li>
             <li>Aula 2</li>
             <li>Aula 3</li>
         </ul>
