@@ -16,8 +16,8 @@ Esta pasta contém os arquivos das aulas da semana 13 do curso de Desenvolviment
         Material Digital de São Paulo Adaptado
         <ul>
             <li><a href="https://docs.google.com/presentation/d/1YORSph3MKKuWd_G3dUsEET0zvZhFbamUzLSiQWD7V8w/edit?usp=sharing">Aula 1</a></li>
-            <li>Aula 2</li>
-            <li>Aula 3</li>
+            <li><a href="https://docs.google.com/presentation/d/1RgJEMTIRssMVOh2CMamTPon1Gymq2fH4blh8uWjPiAg/edit?usp=sharing">Aula 2</a></li>
+            <li><a href="https://docs.google.com/presentation/d/1oWCqIHtuZsijSzRg2aLAECU5nO3PVZfXrtH909YSvlc/edit?usp=sharing">Aula 3</a></li>
         </ul>
     </li>
     <li>Exemplos usados no Material Digital</li>
