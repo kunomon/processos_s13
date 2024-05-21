@@ -7,7 +7,7 @@ Esta pasta contém os arquivos das aulas da semana 13 do curso de Desenvolviment
 #### **Plataforma AVA**: Processos de Desenvolvimento de Software e Metodologias Ágeis – 2º Bimestre - *Semana 13*
 <ul>
     <li>Quiz na Plataforma AVA</li>
-    <li>Registro de Aula Adaptada: <strong>Aulas 2 e 3</strong></li>
+    <li><a href="https://docs.google.com/document/d/12UOxqVg9lNwtiLs04MW_zv6EXiWexJ8kdGn8Sll5yWo/edit?usp=sharing">Registro de Aula Adaptada: <strong>Aulas 2 e 3</a></strong></li>
 </ul>
 
 ### Conteúdo
